@@ -4,5 +4,10 @@
 
 > Projeto: Aplicativo de freelancer para professores particulares
 
+## Informações
+Público Alvo:
+Propósito:
+Lucro:
 
+## Processos de Négocios
 
