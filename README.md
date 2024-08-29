@@ -5,7 +5,8 @@
 > Projeto: Aplicativo de freelancer para professores particulares
 
 ## Informações
-Público Alvo:
+###Público Alvo
+
 Propósito:
 Lucro:
 
