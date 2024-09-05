@@ -37,3 +37,19 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 
 ![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf)
 
+| Nome da tarefa:         | Cadastro de Aluno |
+| ---                     | --- |
+| Dados de entrada:       |
+| Detalhamento da tarefa: | - O aluno cadastra-se na plataforma - Espera a plataforma validar os dados |
+| ---                     | --- |
+| Dados de saída:         |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Desenvolvedores
+| [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
+| :---: | :---: |
+
