@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 
 <!-- ![image](https://github.com/user-attachments/assets/56caea4d-15c8-425d-95b7-66bae428b55a) -->
 
-![image](https://github.com/user-attachments/assets/03f03820-c47e-479a-a800-f84f149e301c)
+<!--![image](https://github.com/user-attachments/assets/03f03820-c47e-479a-a800-f84f149e301c) -->
 
 <!-- ![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf) -->
 
@@ -86,9 +86,35 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 | Detalhamento da tarefa: | - O professor cadastra-se na plataforma<br>- Espera a plataforma validar os dados |
 | **Dados de saída:**     | **Mensagem de espera**                                                            |
 
+| Nome da tarefa:         | Login do Professor                                                                                   |
+| :-----------------------| :----------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados do professor                                                                                   |
+| Detalhamento da tarefa: | - O professor espera a liberação do login pela plataforma<br>- O professor faz o login na plataforma |
+| **Dados de saída:**     | **Acesso a plataforma**                                                                              |
 
-**Falta as outras tabelas**
+| Nome da tarefa:         | Ativação de atividade                            |
+| :-----------------------| :------------------------------------------------|
+| Dados de entrada:       | Dados da aula                                    |
+| Detalhamento da tarefa: | - Professor entra na lista de professores ativos |
+| **Dados de saída:**     | **Espera por aluno**                             |
 
+| Nome da tarefa:         | Comunicação da aula                                              |
+| :-----------------------| :----------------------------------------------------------------|
+| Dados de entrada:       | Mensagens do aluno pela plataforma                               |
+| Detalhamento da tarefa: | - Acontece a comunicação entre aluno e professor pela plataforma |
+| **Dados de saída:**     | **Agendamento da aula**                                          |
+
+| Nome da tarefa:         | Dando a aula                                                                                    |
+| :-----------------------| :-----------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Conexão da aula                                                                                 |
+| Detalhamento da tarefa: | - O professor da aula para o aluno ou pela plataforma ou presencial com o monitoramento da aula |
+| **Dados de saída:**     | **Finalização da aula**                                                                         |
+
+| Nome da tarefa:         | Pagamento                                                                                                        |
+| :-----------------------| :----------------------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados de pagamento                                                                                               |
+| Detalhamento da tarefa: | - O professor recebe o pagamento do aluno pelo método que o aluno peferir, ou pela plataforma ou presencialmente |
+| **Dados de saída:**     | **Baixa de pagamento pela plataforma**                                                                           |
 
 | Nome da tarefa:         | Avaliação do aluno                                 |
 | :-----------------------| :--------------------------------------------------|
