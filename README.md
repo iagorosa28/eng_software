@@ -40,9 +40,10 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 | Nome da tarefa:         | Cadastro de Aluno |
 | ---                     | --- |
 | Dados de entrada:       |
-| Detalhamento da tarefa: | - O aluno cadastra-se na plataforma - Espera a plataforma validar os dados |
-| ---                     | --- |
+| Detalhamento da tarefa: | - O aluno cadastra-se na plataforma 
+                            - Espera a plataforma validar os dados |
 | Dados de saída:         |
+| ---                     | --- |
 
 | Command | Description |
 | --- | --- |
