@@ -25,3 +25,11 @@
 
 ## Modelagem de Processos
 https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=sharing
+
+## Detalhe as tarefas dos processos de negócio
+### 1. Processo de cadastro/login de alunos e professores
+### 2. Processo de busca de professores por alunos 
+### 3. Processo de comunicação entre alunos e professores
+### 4. Processo de monitoramento de aula 
+### 5. Processo de pagamento de serviço
+### 6. Processo de avaliação
