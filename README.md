@@ -4,6 +4,9 @@
 
 > Projeto: Aplicativo de freelancer para professores particulares
 
+> Iago Rosa de Oliveira R.A.: 22.224.027-7
+> Mariah Santos Gomes R.A.: 22.224.026-9
+
 ## Informações
 ### Público Alvo
   Nesse aplicativo buscamos como público alvo todos os estudantes que querem aprender algo novo ou estejam com dificuldade em alguma matéria interagir com professores que buscam ter uma renda extra.
