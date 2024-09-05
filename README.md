@@ -37,11 +37,18 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 
 ![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf)
 
-| Nome da tarefa:         | Cadastro de Aluno |
-| ---                     | --- |
-| Dados de entrada:       |
+| Nome da tarefa:         | Cadastro de Aluno                                                             |
+| ------------------------| ------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados do aluno                                                                |
 | Detalhamento da tarefa: | - O aluno cadastra-se na plataforma<br>- Espera a plataforma validar os dados |
-| Dados de saída:         |
+| ------------------------| ------------------------------------------------------------------------------|
+| Dados de saída:         | Mensagem de espera                                                            |
+| ------------------------| ------------------------------------------------------------------------------|
+
+|-------------|----------------------|
+| Rodapé      | Texto do rodapé       |
+|-------------|----------------------|
+
 
 | Command | Description |
 | --- | --- |
