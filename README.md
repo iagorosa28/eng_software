@@ -38,7 +38,12 @@ PROFESSOR:
 1. Cadastro uma conta professor no aplicativo
 2. Espera validação dos dados fornecidos pela plataforma
 3. Após a liberação da conta o professor pode fazer login
+   
 ### Processo de busca de professores por alunos 
+
+ALUNO:
+PROFESSOR:
+
 ### Processo de comunicação entre alunos e professores
 ### Processo de monitoramento de aula 
 ### Processo de pagamento de serviço
