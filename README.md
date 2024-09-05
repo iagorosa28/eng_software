@@ -28,11 +28,11 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 
 ## Detalhe as tarefas dos processos de negócio
 
-![image](https://github.com/user-attachments/assets/56caea4d-15c8-425d-95b7-66bae428b55a)
+<!-- ![image](https://github.com/user-attachments/assets/56caea4d-15c8-425d-95b7-66bae428b55a) -->
 
 ![image](https://github.com/user-attachments/assets/03f03820-c47e-479a-a800-f84f149e301c)
 
-![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf)
+<!-- ![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf) -->
 
 ### Tarefas realizadas pelo Aluno 
 
@@ -79,6 +79,22 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 | **Dados de saída:**     | **Avaliação enviada para a plataforma**            |
 
 ### Tarefas realizadas pelo Professor
+
+| Nome da tarefa:         | Cadastro do Professor                                                             |
+| :-----------------------| :---------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados do professor                                                                |
+| Detalhamento da tarefa: | - O professor cadastra-se na plataforma<br>- Espera a plataforma validar os dados |
+| **Dados de saída:**     | **Mensagem de espera**                                                            |
+
+
+**Falta as outras tabelas**
+
+
+| Nome da tarefa:         | Avaliação do aluno                                 |
+| :-----------------------| :--------------------------------------------------|
+| Dados de entrada:       | Resposta do professor                              |
+| Detalhamento da tarefa: | - O professor faz uma avaliação do aluno e da aula |
+| **Dados de saída:**     | **Avaliação enviada para a plataforma**            |
 
 ### Tarefas realizadas pelo Sistema
 
