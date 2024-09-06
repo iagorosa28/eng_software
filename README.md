@@ -26,13 +26,11 @@
 ## Modelagem de Processos
 https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=sharing
 
-## Detalhe as tarefas dos processos de negócio
+## Detalhe as tarefas dos processos de negócio - Em Formato De Texto
 
-<!-- ![image](https://github.com/user-attachments/assets/56caea4d-15c8-425d-95b7-66bae428b55a) -->
 
-<!--![image](https://github.com/user-attachments/assets/03f03820-c47e-479a-a800-f84f149e301c) -->
 
-<!-- ![image](https://github.com/user-attachments/assets/d095d1d0-961b-4589-b848-fc64347e03cf) -->
+## Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
 
 ### Tarefas realizadas pelo Aluno 
 
@@ -123,6 +121,48 @@ https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=shari
 | **Dados de saída:**     | **Avaliação enviada para a plataforma**            |
 
 ### Tarefas realizadas pelo Sistema
+
+| Nome da tarefa:         | Validação dos dados                                                                     |
+| :-----------------------| :---------------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados do professor ou do aluno                                                          |
+| Detalhamento da tarefa: | - Validar os dados de entrada dos cadastros, verificando a autenticidade e coisas afins |
+| **Dados de saída:**     | **Notificação de espera para os cadastrados**                                           |
+
+| Nome da tarefa:         | Liberação do login                                                     |
+| :-----------------------| :----------------------------------------------------------------------|
+| Dados de entrada:       | Conclusão da validação                                                 |
+| Detalhamento da tarefa: | - Após a validação ser concluída e aceita, a plataforma libera o login |
+| **Dados de saída:**     | **Notificação de liberação de login para os cadastrados**              |
+
+| Nome da tarefa:         | Serviços de filtragem e listagem                                                                                                |
+| :-----------------------| :-------------------------------------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados de ativação do professor                                                                                                  |
+| Detalhamento da tarefa: | - Cadastrando o professor na lista de ativos<br>- Liberando a lista de ativos para os alunos, oferencendo serviços de filtragem |
+| **Dados de saída:**     | **Retornando o professor com a escolha do aluno e notificando-o**                                                               |
+
+| Nome da tarefa:         | Comunicação e agendamento                                                  |
+| :-----------------------| :--------------------------------------------------------------------------|
+| Dados de entrada:       | Informações do aluno e do professor                                        |
+| Detalhamento da tarefa: | - Oferecendo suporte para o planejamento das aulas entre aluno e professor |
+| **Dados de saída:**     | **Agendamento da aula**                                                    |
+
+| Nome da tarefa:         | Monitoramento da aula                                                                            |
+| :-----------------------| :------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Início da aula                                                                                   |
+| Detalhamento da tarefa: | - Suporte de monitoramento de aula via presencial, ou, suporte de transmissão de aula via online |
+| **Dados de saída:**     | **Fim da aula**                                                                                  |
+
+| Nome da tarefa:         | Suporte de pagamento                                                                                                                |
+| :-----------------------| :-----------------------------------------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Dados de pagamento do aluno e de recebedor do professor                                                                             |
+| Detalhamento da tarefa: | - A plataforma oferece suporte de pagamentos online (via app)<br>- A plataforma oferece monitoramento e baixas de pagamento via app |
+| **Dados de saída:**     | **Conclusão da verificação de pagamento**                                                                                           |
+
+| Nome da tarefa:         | Suporte de avaliações                                                                             |
+| :-----------------------| :-------------------------------------------------------------------------------------------------|
+| Dados de entrada:       | Avaliações do professor e do aluno                                                                |
+| Detalhamento da tarefa: | - A plataforma oferece suporte de avaliações para que tanto o aluno quanto o professor se avaliem |
+| **Dados de saída:**     | **Atualizações na área de avaliações dos cadastrados**                                            |
 
 ## Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
