@@ -37,6 +37,32 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 
 •	Com a ativação concluída, os indivíduos obtêm permissão para acessar a plataforma utilizando suas credenciais.
 
+### Processo de Busca de Professores pelos Alunos:
+•	Professores cadastrados ativam suas contas, tornando-se visíveis na lista de professores disponíveis.
+
+•	A plataforma exibe para os alunos uma lista atualizada de professores ativos.
+
+•	Utilizando um sistema de filtragem, os alunos podem buscar o professor ideal com base em critérios como matéria, disponibilidade de horários, tipo de aula, entre outros.
+
+### Processo de Comunicação entre Alunos e Professores:
+•	Após a seleção de um professor, a plataforma disponibiliza um sistema de comunicação entre ambos para o planejamento das aulas.
+
+•	Com o planejamento concluído, a plataforma agenda a aula.
+
+### Processo de Monitoramento de Aula:
+•	A plataforma oferece um sistema de acompanhamento que monitora o andamento das aulas, seja presencial ou online.
+
+•	O professor ministra a aula no horário combinado com o aluno.
+
+•	Ao término da aula, tanto o aluno quanto o professor confirmam a conclusão da mesma. No caso de aulas online, o encerramento pode ser registrado automaticamente.
+
+### Processo de Pagamento pelo Serviço:
+•	Após a conclusão da aula, a plataforma fornece um sistema para gerenciamento e realização do pagamento.
+
+•	O aluno escolhe o método de pagamento preferido e, uma vez confirmado, a plataforma registra a transação. Caso o pagamento seja feito em espécie, tanto o aluno quanto o professor devem confirmar o recebimento na plataforma.
+
+### Processo de Avaliação:
+•	Ao final de todo o processo, a plataforma libera um sistema de avaliação para que alunos e professores possam avaliar mutuamente a experiência.
 
 ## Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
 
