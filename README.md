@@ -30,6 +30,10 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 
 ## Detalhe as tarefas dos processos de negócio - Em Formato De Texto
 
+### Processo de Cadastro/Login de Alunos e Professores:
+•	Os indivíduos se cadastram na plataforma como alunos ou professores.
+•	A plataforma valida os dados fornecidos e, em seguida, envia uma ativação de login para os usuários.
+•	Com a ativação concluída, os indivíduos obtêm permissão para acessar a plataforma utilizando suas credenciais.
 
 
 ## Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
