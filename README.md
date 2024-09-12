@@ -1,5 +1,11 @@
 # Conect Educa
 
+> Status do projeto: Em andamento
+
+> Esse projeto nos foi proposto no 5ºSemestre na disciplina de Engenharia de Software
+
+> Escrevemos esse projeto juntos durante as aulas 
+
 > Área de Domínio: Educação
 
 > Projeto: Aplicativo de freelancer para professores particulares
