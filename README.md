@@ -11,7 +11,7 @@
 > Projeto: Aplicativo de freelancer para professores particulares
 
 ### Tópicos
-🔹[Informações](#page_facing_up-informação)
+🔹[Informações](#page_facing_up-informações)
 
 🔹[Funcionalidade](#mag_right-funcionalidade)
 
