@@ -10,7 +10,16 @@
 
 > Projeto: Aplicativo de freelancer para professores particulares
 
-## Informações
+### Tópicos
+🔹[Informações](#page_facing_up-informação)
+
+🔹[Funcionalidade](#mag_right-funcionalidade)
+
+🔹[Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
+
+🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
+
+## :page_facing_up: Informações
 ### Público Alvo
   Nesse aplicativo buscamos como público alvo todos os estudantes que querem aprender algo novo ou estejam com dificuldade em alguma matéria interagir com professores que buscam ter uma renda extra.
   
