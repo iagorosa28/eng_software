@@ -11,12 +11,18 @@
 > Projeto: Aplicativo de freelancer para professores particulares
 
 ### Tópicos
+#### Modelo de Négocio
 🔹[Informações](#page_facing_up-informações)
 
-🔹[Funcionalidade](#mag_right-funcionalidade)
+🔹[Processos de Négocio](#pencil-processos-de-négocio)
 
-🔹[Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
+🔹[Modelagem de Processos](#mag_right-modelagem-de-processos)
 
+🔹[Detalhe as tarefas dos processos de negócio - Em Formato De Texto](#pencil2-detalhe-as-tarefas-dos-processos-de-negócio---em-formato-de-texto)
+
+🔹[Detalhe as tarefas dos processos de negócio - Em Formato De Tabela](#bookmark_tabs-detalhe-as-tarefas-dos-processos-de-negócio---em-formato-de-tabela)
+
+### Requisitos de Software
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
 ## :page_facing_up: Informações
@@ -30,7 +36,7 @@
   Pensamos em uma taxa de ____ em cima da aula do professor. Por exemplo, o professor cobra 200 reais pela aula tirando a sua locomoção que será tratada direto com o aluno, o valor mostrado para contratar o serviço será de ____. 
   Intermediação entre aluno e professor.
 
-## Processos de Négocios
+## :pencil: Processos de Négocios
 1. Processo de cadastro/login de alunos e professores
 2. Processo de busca de professores por alunos 
 3. Processo de comunicação entre alunos e professores
@@ -38,12 +44,12 @@
 5. Processo de pagamento de serviço
 6. Processo de avaliação
 
-## Modelagem de Processos
+## :mag_right: Modelagem de Processos
 ![Imagem do WhatsApp de 2024-09-05 à(s) 11 50 09_69074da9](https://github.com/user-attachments/assets/3475a52f-870c-42c6-b7cb-b441e54f124b)
 
 Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=sharing
 
-## Detalhe as tarefas dos processos de negócio - Em Formato De Texto
+## :pencil2: Detalhe as tarefas dos processos de negócio - Em Formato De Texto
 
 ### Processo de Cadastro/Login de Alunos e Professores:
 •	Os indivíduos se cadastram na plataforma como alunos ou professores.
@@ -79,7 +85,7 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 ### Processo de Avaliação:
 •	Ao final de todo o processo, a plataforma libera um sistema de avaliação para que alunos e professores possam avaliar mutuamente a experiência.
 
-## Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
+## :bookmark_tabs: Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
 
 ### Tarefas realizadas pelo Aluno 
 
