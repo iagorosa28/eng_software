@@ -27,6 +27,10 @@
 
 🔹[Quem São Os Stakeholders?](#bust_in_silhouette-quem-são-os-stakeholders?)
 
+🔹[Requisitos Funcionais E Não Funcionais](#pushpin-requisitos-funcionais-e-não-funcionais)
+
+🔹[Regras De Negócio](#exclamation-regras-de-negócio)
+
 🔹[Protótipos De Telas](#iphone-protótipos-de-telas)
 
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
@@ -227,7 +231,15 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 
 ## :chart_with_upwards_trend: Modelo De Software Escolhido
 
+Escolhemos o modelo ágil de processo o Kanban, porque, já aplicamos o Kanban na nossa rotina diária e acreditamos que conseguiremos reproduzir com facilidade em nosso projeto.
+
 ## :bust_in_silhouette: Quem São Os Stakeholders?
+
+Os stakeholders do nosso projeto, serão professores e alunos.
+
+## :pushpin: Requisitos Funcionais E Não Funcionais
+
+## :exclamation: Regras De Negócio
 
 ## :iphone: Protótipos De Telas
 
