@@ -14,7 +14,7 @@
 #### Modelo de Négocio
 🔹[Informações](#page_facing_up-informações)
 
-🔹[Processos de Négocio](#pencil-processos-de-négocio)
+🔹[Processos de Négocios](#pencil-processos-de-négocios)
 
 🔹[Modelagem de Processos](#mag_right-modelagem-de-processos)
 
