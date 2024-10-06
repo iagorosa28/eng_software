@@ -247,7 +247,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **RF03** - Quando o professor ativar a conta, o sistema deve exibir a foto dele, com o nome, a disciplina que quer ensinar e seus contatos.
 
-**RF04** - O sistema deve disponibilizar um serviço de lista e filtragem de alunos.
+**RF04** - O sistema deve disponibilizar um serviço de lista e filtragem para alunos.
 
 **RF05** - Quando o aluno escolher um professor o sistema deve liberar um serviço de comunicação entre eles.
 
