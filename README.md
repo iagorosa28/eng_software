@@ -263,13 +263,21 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **RNF02** - O tamanho da foto não deve ser superior a 500Kb.
 
-**RNF03** - O sistema será desenvolvido usando a linguagem _____
+**RNF03** - O sistema na parte de mobile será desenvolvido com React Native com JavaScript
+
+**RNF04** - O sistema na parte de backend será desenvolvido com Python com Flask ou Django
+
+**RNF05** - O sistema na parte de banco de dados será desenvolvido com PostgreSQL
+
+**RNF06** - O sistema na parte de autenticação será desenvolvido com Firebase Authentication
+
+**RNF07** - O sistema na parte de deploy será desenvolvido com Heroku ou Render.com
 
 ## :exclamation: Regras De Negócio
 
 **RN01** - O sistema deve auxiliar no pagamento
 
-**
+**RN02** - 
 
 ## :iphone: Protótipos De Telas
 
