@@ -275,11 +275,32 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ## :exclamation: Regras De Negócio
 
-**RN01** - O sistema deve auxiliar no pagamento
+**RN01** - O sistema deverá verificar e autenticar os dados dos usuários
 
-**RN02** - 
+**RN02** - O sistema deve prestar suporte aos usuários a qualquer momento
+
+**RN03** - O sistema deve prestar auxílio no momento do pagamento
+
 
 ## :iphone: Protótipos De Telas
+
+**HU01** - Como professor, quero cadastrar uma conta no app para que eu possa utilizá-lo para oferecer aulas
+
+**HU02** - Como aluno, quero cadastrar uma conta no app para que eu possa utilizá-lo e contratar aulas
+
+**HU03** - Como professor, ao ativar minha conta, quero que minhas informações sejam listadas para que os alunos possam me encontrar e contratar
+
+**HU04** - Como aluno, espero que o sistema me forneça uma funcionalidade de listagem e filtragem para que eu possa encontrar o professor ideal para mim
+
+**HU05.1** - Como professor, ao ser escolhido por um aluno, espero que o sistema me ofereça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele
+
+**HU05.2** - Como aluno, ao escolher um professor, espero que o sistema me forneça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele
+
+**HU06** - Como usuário (aluno ou professor), espero que o sistema monitore e forneça suporte durante as aulas, para que qualquer problema seja corrigido e a aula ocorra conforme o planejado
+
+**HU07** - Como usuário (aluno ou professor), espero que o sistema ofereça suporte a pagamentos para garantir a segurança das transações
+
+**HU08** - Como usuário (aluno ou professor), espero que, após a realização da aula e do pagamento, o sistema forneça um serviço de avaliações, para que eu possa avaliar o outro usuário (aluno ou professor) e assim evitar futuras fraudes e problemas
 
 
 
