@@ -239,7 +239,26 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ## :pushpin: Requisitos Funcionais E Não Funcionais
 
+### Requisitos Funcionais
+
+**RF01** - O sistema deve registrar as informações do professor. Como, nome, endereço, disciplina ou disciplinas que quer ensinar, contato, dados bancários e CPF.
+**RF02** - O sistema deve registrar as informações do aluno. Como, nome, endereço, CPF, contato, nível de escolaridade.
+**RF03** - Quando o professor ativar a conta, o sistema deve exibir a foto dele, com o nome, a disciplina que quer ensinar e seus contatos.
+**RF04** - O sistema deve disponibilizar um serviço de lista e filtragem de alunos.
+**RF05** - Quando o aluno escolher um professor o sistema deve liberar um serviço de comunicação entre eles.
+**RF06** - No dia da aula o sistema deve prestar suporte e monitorar a aula.
+**RF07** - O sistema após a aula deve oferecer um serviço de pagamento.
+**RF08** - O sistema após o pagamento deve oferecer um serviço de avaliação.
+
+### Requisitos Não Funcionais
+
+**RNF01** - O formato da foto oferecida tanto pelo professor como pelo aluno deve ser em formato JPG
+**RNF02** - O tamanho da foto não deve ser superior a 500Kb.
+**RNF03** - O sistema será desenvolvido usando a linguagem _____
+
 ## :exclamation: Regras De Negócio
+
+**RN01** - 
 
 ## :iphone: Protótipos De Telas
 
