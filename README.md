@@ -284,6 +284,12 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ## :iphone: Protótipos De Telas
 
+
+
+
+
+## Histórias de Usuário
+
 **HU01** - Como professor, quero cadastrar uma conta no app para que eu possa utilizá-lo para oferecer aulas
 
 **HU02** - Como aluno, quero cadastrar uma conta no app para que eu possa utilizá-lo e contratar aulas
@@ -301,10 +307,6 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 **HU07** - Como usuário (aluno ou professor), espero que o sistema ofereça suporte a pagamentos para garantir a segurança das transações
 
 **HU08** - Como usuário (aluno ou professor), espero que, após a realização da aula e do pagamento, o sistema forneça um serviço de avaliações, para que eu possa avaliar o outro usuário (aluno ou professor) e assim evitar futuras fraudes e problemas
-
-
-
-## Histórias de Usuário
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
