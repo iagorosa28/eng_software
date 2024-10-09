@@ -283,11 +283,15 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 
 ## :iphone: Protótipos De Telas
-<div align="center">
-    <h3>Tela de Login</h3>
+<div align="left">
+    <h3>Tela de login</h3>
    <img width=200 height=450 src="https://github.com/user-attachments/assets/a33729b5-ee9d-4e5e-a4f5-c411553c1915"/>
 </div>
 
+<div align="right">
+    <h3>Tela do tipo de cadastro/h3>
+   <img width=200 height=450 src="https://github.com/user-attachments/assets/b15e82b1-79a1-4387-8f7c-08dadf76e227"/>
+</div>
 
 
 ## Histórias de Usuário
