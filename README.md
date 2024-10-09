@@ -283,8 +283,10 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 
 ## :iphone: Protótipos De Telas
+<div align="center">
+   <img width=250 height=400 src="https://github.com/user-attachments/assets/280ce01a-b179-4d05-9851-5225db9df4b4"/>
+</div>
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVLWPI1Gw=/?pres=1&frameId=3458764602323712575&embedId=150797845562" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Histórias de Usuário
 
