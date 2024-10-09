@@ -286,6 +286,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 <div align="center">
    <img width=200 height=450 src="https://github.com/user-attachments/assets/a33729b5-ee9d-4e5e-a4f5-c411553c1915"/>
 </div>
+![Protótipos de Telas](https://github.com/user-attachments/assets/2b0ea3c4-2221-46cf-a14a-7e7c679d8ea6)
 
 
 ## Histórias de Usuário
