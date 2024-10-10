@@ -283,35 +283,9 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 
 ## :iphone: Protótipos De Telas
-<div align="center">
-    <h3>Tela de login</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/a33729b5-ee9d-4e5e-a4f5-c411553c1915"/>
-</div>
 
-<div align="center">
-    <h3>Tela do tipo de cadastro</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/b15e82b1-79a1-4387-8f7c-08dadf76e227"/>
-</div>
+[![Visualização](https://miro.com/app/embed/uXjVLWPI1Gw=/?pres=1&frameId=3458764602323712575&embedId=150797845562)](https://miro.com/app/embed/uXjVLWPI1Gw=/?pres=1&frameId=3458764602323712575&embedId=150797845562)
 
-<div align="center">
-  <h3>Tela de cadastro do professor</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/774b31d4-29b8-4d08-959e-7a507b6cf8af"/>
-</div>
-
-<div align="center">
-  <h3>Tela de cadastro do aluno</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/0056250b-c559-44d5-99cf-b2fa197d835c"/>
-</div>
-
-<div align="center">
-  <h3>Tela de validação de cadastro</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/e4bdd84d-2177-493b-a045-d7333e6f9be5"/>
-</div>
-
-<div align="center">
-  <h3>Tela de cadastro do aluno</h3>
-   <img width=200 height=450 src="https://github.com/user-attachments/assets/0056250b-c559-44d5-99cf-b2fa197d835c"/>
-</div>
 
 ## Histórias de Usuário
 
