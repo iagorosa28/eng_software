@@ -314,10 +314,19 @@ classDiagram
 
   class ALUNO
   ALUNO : - nome string
-  ALUNO : - endereço
-  ALUNO : - cpf
-  ALUNO : - contato
-  ALUNO : - nível de escolaridade
+  ALUNO : - endereço string
+  ALUNO : - cpf int
+  ALUNO : - contato int
+  ALUNO : - nível de escolaridade string
+
+  class PROFESSOR
+  PROFESSOR : - nome string
+  PROFESSOR : - endereço string
+  PROFESSOR : - cpf int
+  PROFESSOR : - contato int
+  PROFESSOR : - disciplinas string
+  PROFESSOR : - dados bancários int
+
 ```
 
 
