@@ -313,11 +313,11 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 classDiagram
 
   class ALUNO
-  ALUNO : - nome: string
-  ALUNO : - endereço:
-  ALUNO : - cpf:
-  ALUNO : - contato:
-  ALUNO : - nível de escolaridade:
+  ALUNO : - nome string
+  ALUNO : - endereço
+  ALUNO : - cpf
+  ALUNO : - contato
+  ALUNO : - nível de escolaridade
 ```
 
 
