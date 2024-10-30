@@ -312,9 +312,9 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 ```mermaid
 classDiagram
 
-  ALUNO "1..1" --> "1..*" PROFESSOR : ESCOLHE
-  ALUNO "1" --> "1" AULA : ASSISTE
-  PLAYLIST "1" --> "0..*" MUSICAS_PLAYLISTS : CONTÉM
+  ALUNO "1..1" -- "1..*" PROFESSOR : ESCOLHE
+  ALUNO "1" -- "1" AULA : ASSISTE
+  PROFESSOR "" -- "" AULA : MINISTRA
 
   class ALUNO
   ALUNO : - nome string
