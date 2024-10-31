@@ -315,8 +315,12 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 classDiagram
 
   ALUNO "1" -- "1..*" PROFESSOR : ESCOLHE
-  ALUNO "1" -- "1.." AULA : ASSISTE
-  PROFESSOR "1" -- "1.." AULA : MINISTRA
+  ALUNO "1" -- "1..*" AULA : AGENDA
+  PROFESSOR "1" -- "1..*" AULA : AGENDA
+  ALUNO "1" -- "1" PAGAMENTO : PAGA
+  PROFESSOR "1" -- "1" PAGAMENTO : RECEBE
+  ALUNO "1" -- "1" AVALIAÇÃO : AVALIA
+  PROFESSOR "1" -- "1" AVALIAÇÃO : AVALIA
 
   class ALUNO
   ALUNO : - nome string
@@ -325,7 +329,6 @@ classDiagram
   ALUNO : - contato int
   ALUNO : - senha string
   ALUNO : - nível de escolaridade string
-  ALUNO : - dados bancários int
 
   class PROFESSOR
   PROFESSOR : - nome string
@@ -334,7 +337,6 @@ classDiagram
   PROFESSOR : - contato int
   PROFESSOR : - senha string
   PROFESSOR : - disciplinas string
-  PROFESSOR : - dados bancários int
 
   class AULA
   AULA : - data date
@@ -343,10 +345,14 @@ classDiagram
   AULA : - modelo string
 
   class PAGAMENTO
-  PAGAMENTO :
+  PAGAMENTO : - tipo de pagamento string
+  PAGAMENTO : - dados bancários int
+  PAGAMENTO : - valor float
+  PAGAMENTO : - comprovante string
 
   class AVALIAÇÃO
-  AVALIAÇÃO : 
+  AVALIAÇÃO : - nota int
+  AVALIAÇÃO : - texto avaliativo string
 ```
 
 ## :busts_in_silhouette: Desenvolvedores
