@@ -308,17 +308,15 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/2ba997d0-583b-4258-a05b-456a9286fdfc)
-
-![image](https://github.com/user-attachments/assets/38143d2a-59ac-4b16-aaf6-b51bd9b3c2bf)
+![DiagramaDeCasosDeUso drawio (1)](https://github.com/user-attachments/assets/0555fca5-c332-40fc-8413-645106113ee2)
 
 ## Diagrama de Domínio
 ```mermaid
 classDiagram
 
   ALUNO "1" -- "1..*" PROFESSOR : ESCOLHE
-  ALUNO "1" -- "1" AULA : ASSISTE
-  PROFESSOR "1" -- "1" AULA : MINISTRA
+  ALUNO "1" -- "1.." AULA : ASSISTE
+  PROFESSOR "1" -- "1.." AULA : MINISTRA
 
   class ALUNO
   ALUNO : - nome string
@@ -343,6 +341,12 @@ classDiagram
   AULA : - duração int
   AULA : - horário int
   AULA : - modelo string
+
+  class PAGAMENTO
+  PAGAMENTO :
+
+  class AVALIAÇÃO
+  AVALIAÇÃO : 
 ```
 
 ## :busts_in_silhouette: Desenvolvedores
