@@ -34,6 +34,8 @@
 
 🔹[Protótipos De Telas](#iphone-protótipos-de-telas)
 
+🔹[Histórias de Usuário](#books-histórias-de-usuário)
+
 #### Modelagem de Software
 
 #### Projeto de Arquitetura
@@ -235,7 +237,7 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 | Detalhamento da tarefa: | - A plataforma oferece suporte de avaliações para que tanto o aluno quanto o professor se avaliem |
 | **Dados de saída:**     | **Atualizações na área de avaliações dos cadastrados**                                            |
 
-### [Tópicos](#tópicos)
+### [Volte Para O Menu](#tópicos)
 
 ## Requisitos de Software
 ### :chart_with_upwards_trend: Modelo De Software Escolhido
@@ -266,7 +268,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **RF08** - O sistema após o pagamento deve oferecer um serviço de avaliação.
 
-### Requisitos Não Funcionais
+#### Requisitos Não Funcionais
 
 **RNF01** - O formato da foto oferecida tanto pelo professor como pelo aluno deve ser em formato JPG
 
@@ -282,7 +284,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **RNF07** - O sistema na parte de deploy será desenvolvido com Heroku ou Render.com
 
-## :exclamation: Regras De Negócio
+### :exclamation: Regras De Negócio
 
 **RN01** - O sistema deverá verificar e autenticar os dados dos usuários
 
@@ -290,12 +292,11 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **RN03** - O sistema deve prestar auxílio no momento do pagamento
 
-
-## :iphone: Protótipos De Telas
+### :iphone: Protótipos De Telas
 
 [![image](https://github.com/user-attachments/assets/820e441f-f99b-4dea-b450-66e23ee041da)](https://miro.com/welcomeonboard/TVdBOVdjRFl5a0twMTl3MTJHUlhKYXdOelh1dURmeTF5ZVg3S0NtTkZxOG1OaExITTU5MWlxNzRrdDZzZHdYMnwzMDc0NDU3MzY0OTIyNzIyOTU5fDI=?share_link_id=255407610464)
 
-## Histórias de Usuário
+### :books: Histórias de Usuário
 
 **HU01** - Como professor, quero cadastrar uma conta no app para que eu possa utilizá-lo para oferecer aulas.
 
@@ -315,7 +316,10 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 **HU08** - Como aluno ou professor, quero que o sistema permita que alunos avaliem professores e professores avaliem alunos após a realização da aula e do pagamento, para melhorar a experiência e evitar fraudes e problemas futuros.
 
-## Diagrama de Casos de Uso
+
+
+## Modelagem de Software
+### Diagrama de Casos de Uso
 
 ![DiagramaDeCasosDeUso drawio (1)](https://github.com/user-attachments/assets/0555fca5-c332-40fc-8413-645106113ee2)
 
