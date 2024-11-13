@@ -33,19 +33,25 @@
 
 🔹[Protótipos De Telas](#iphone-protótipos-de-telas)
 
+#### Modelagem de Software
+
+#### Projeto de Arquitetura
+
+#### Desenvolvedores 
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
-## :page_facing_up: Informações
-### Público Alvo
+## Modelo de Négocio
+### :page_facing_up: Informações
+#### Público Alvo
   Nesse aplicativo buscamos como público alvo todos os estudantes que querem aprender algo novo ou estejam com dificuldade em alguma matéria interagir com professores que buscam ter uma renda extra.
   
-### Propósito
+#### Propósito
   Facilitar o contato entre professores que queiram dar aulas particulares com alunos que necessitam dessas aulas.
   
-### Lucro
+#### Lucro
   Pensamos em uma taxa de intermediação da aula. Onde, o négocio recebe uma pequena porcentagem dependendo do valor da aula. Incialmente, pensamos nesssa forma de gerar recursos, futuramente pretendemos adicionar outras formas de receita atráves do aplicativo.
 
-## :pencil: Processos de Négocios
+### :pencil: Processos de Négocios
 1. Processo de cadastro/login de alunos e professores
 2. Processo de busca de professores por alunos 
 3. Processo de comunicação entre alunos e professores
@@ -53,50 +59,50 @@
 5. Processo de pagamento de serviço
 6. Processo de avaliação
 
-## :mag_right: Modelagem de Processos
+### :mag_right: Modelagem de Processos
 ![Imagem do WhatsApp de 2024-09-05 à(s) 11 50 09_69074da9](https://github.com/user-attachments/assets/3475a52f-870c-42c6-b7cb-b441e54f124b)
 
 Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=sharing
 
-## :pencil2: Detalhe as tarefas dos processos de negócio - Em Formato De Texto
+### :pencil2: Detalhe as tarefas dos processos de negócio - Em Formato De Texto
 
-### Processo de Cadastro/Login de Alunos e Professores:
+#### Processo de Cadastro/Login de Alunos e Professores:
 •	Os indivíduos se cadastram na plataforma como alunos ou professores.
 
 •	A plataforma valida os dados fornecidos e, em seguida, envia uma ativação de login para os usuários.
 
 •	Com a ativação concluída, os indivíduos obtêm permissão para acessar a plataforma utilizando suas credenciais.
 
-### Processo de Busca de Professores pelos Alunos:
+#### Processo de Busca de Professores pelos Alunos:
 •	Professores cadastrados ativam suas contas, tornando-se visíveis na lista de professores disponíveis.
 
 •	A plataforma exibe para os alunos uma lista atualizada de professores ativos.
 
 •	Utilizando um sistema de filtragem, os alunos podem buscar o professor ideal com base em critérios como matéria, disponibilidade de horários, tipo de aula, entre outros.
 
-### Processo de Comunicação entre Alunos e Professores:
+#### Processo de Comunicação entre Alunos e Professores:
 •	Após a seleção de um professor, a plataforma disponibiliza um sistema de comunicação entre ambos para o planejamento das aulas.
 
 •	Com o planejamento concluído, a plataforma agenda a aula.
 
-### Processo de Monitoramento de Aula:
+#### Processo de Monitoramento de Aula:
 •	A plataforma oferece um sistema de acompanhamento que monitora o andamento das aulas, seja presencial ou online.
 
 •	O professor ministra a aula no horário combinado com o aluno.
 
 •	Ao término da aula, tanto o aluno quanto o professor confirmam a conclusão da mesma. No caso de aulas online, o encerramento pode ser registrado automaticamente.
 
-### Processo de Pagamento pelo Serviço:
+#### Processo de Pagamento pelo Serviço:
 •	Após a conclusão da aula, a plataforma fornece um sistema para gerenciamento e realização do pagamento.
 
 •	O aluno escolhe o método de pagamento preferido e, uma vez confirmado, a plataforma registra a transação. Caso o pagamento seja feito em espécie, tanto o aluno quanto o professor devem confirmar o recebimento na plataforma.
 
-### Processo de Avaliação:
+#### Processo de Avaliação:
 •	Ao final de todo o processo, a plataforma libera um sistema de avaliação para que alunos e professores possam avaliar mutuamente a experiência.
 
-## :bookmark_tabs: Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
+### :bookmark_tabs: Detalhe as tarefas dos processos de negócio - Em Formato De Tabela
 
-### Tarefas realizadas pelo Aluno 
+#### Tarefas realizadas pelo Aluno 
 
 | Nome da tarefa:         | Cadastro de Aluno                                                             |
 | :-----------------------| :-----------------------------------------------------------------------------|
@@ -140,7 +146,7 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 | Detalhamento da tarefa: | - O aluno faz uma avaliação do professor e da aula |
 | **Dados de saída:**     | **Avaliação enviada para a plataforma**            |
 
-### Tarefas realizadas pelo Professor
+#### Tarefas realizadas pelo Professor
 
 | Nome da tarefa:         | Cadastro do Professor                                                             |
 | :-----------------------| :---------------------------------------------------------------------------------|
@@ -228,17 +234,18 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 | Detalhamento da tarefa: | - A plataforma oferece suporte de avaliações para que tanto o aluno quanto o professor se avaliem |
 | **Dados de saída:**     | **Atualizações na área de avaliações dos cadastrados**                                            |
 
-## :chart_with_upwards_trend: Modelo De Software Escolhido
+## Requisitos de Software
+### :chart_with_upwards_trend: Modelo De Software Escolhido
 
 Escolhemos o modelo ágil de processo o Kanban, porque, já aplicamos o Kanban na nossa rotina diária e acreditamos que conseguiremos reproduzir com facilidade em nosso projeto.
 
-## :bust_in_silhouette: Quem São Os Stakeholders?
+### :bust_in_silhouette: Quem São Os Stakeholders?
 
 Os stakeholders do nosso projeto, serão professores e alunos.
 
-## :pushpin: Requisitos Funcionais E Não Funcionais
+### :pushpin: Requisitos Funcionais E Não Funcionais
 
-### Requisitos Funcionais
+#### Requisitos Funcionais
 
 **RF01** - O sistema deve registrar as informações do professor. Como, nome, endereço, disciplina ou disciplinas que quer ensinar, contato, dados bancários e CPF.
 
