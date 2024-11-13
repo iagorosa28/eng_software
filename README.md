@@ -234,7 +234,7 @@ Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe
 | Detalhamento da tarefa: | - A plataforma oferece suporte de avaliações para que tanto o aluno quanto o professor se avaliem |
 | **Dados de saída:**     | **Atualizações na área de avaliações dos cadastrados**                                            |
 
-###[Tópicos](#tópicos)
+### [Tópicos](#tópicos)
 
 ## Requisitos de Software
 ### :chart_with_upwards_trend: Modelo De Software Escolhido
