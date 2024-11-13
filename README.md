@@ -36,13 +36,15 @@
 
 🔹[Histórias de Usuário](#books-histórias-de-usuário)
 
-#### [Fase 3 - Modelagem de Software]()
+#### [Fase 3 - Modelagem de Software](modelagem-de-software)
 
 🔹[Diagrama de Casos de Uso](#chart_with_upwards_trend-modelo-de-software-escolhido)
 
 🔹[Diagrama de Domínio](#bust_in_silhouette-quem-são-os-stakeholders?)
 
-#### [Fase 4 - Projeto de Arquitetura]()
+#### [Fase 4 - Projeto de Arquitetura](projeto-de-arquitetura)
+
+🔹[Diagrama de Domínio](#bust_in_silhouette-quem-são-os-stakeholders?)
 
 #### [Dados Desenvolvedores](#desenvolvedores) 
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
