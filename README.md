@@ -40,7 +40,7 @@
 
 🔹[Diagrama de Casos de Uso](#chart_with_upwards_trend-modelo-de-software-escolhido)
 
-🔹[Diagrama de Domínio](#bust_in_silhouette-quem-são-os-stakeholders?)
+🔹[Diagrama de Domínio](#mag-diagrama-de-domínio)
 
 #### [Fase 4 - Projeto de Arquitetura](projeto-de-arquitetura)
 
@@ -329,7 +329,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ![DiagramaDeCasosDeUso drawio (1)](https://github.com/user-attachments/assets/0555fca5-c332-40fc-8413-645106113ee2)
 
-## Diagrama de Domínio
+## :mag: Diagrama de Domínio
 ```mermaid
 classDiagram
 
