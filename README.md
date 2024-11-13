@@ -287,23 +287,23 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ## Histórias de Usuário
 
-**HU01** - Como professor, quero cadastrar uma conta no app para que eu possa utilizá-lo para oferecer aulas
+**HU01** - Como professor, quero cadastrar uma conta no app para que eu possa utilizá-lo para oferecer aulas.
 
-**HU02** - Como aluno, quero cadastrar uma conta no app para que eu possa utilizá-lo e contratar aulas
+**HU02** - Como aluno, quero cadastrar uma conta no app para que eu possa utilizá-lo e contratar aulas.
 
-**HU03** - Como professor, ao ativar minha conta, quero que minhas informações sejam listadas para que os alunos possam me encontrar e contratar
+**HU03** - Como professor, ao ativar minha conta, quero que minhas informações sejam listadas para que os alunos possam me encontrar e contratar.
 
-**HU04** - Como aluno, espero que o sistema me forneça uma funcionalidade de listagem e filtragem para que eu possa encontrar o professor ideal para mim
+**HU04** - Como aluno, espero que o sistema me forneça uma funcionalidade de listagem e filtragem para que eu possa encontrar o professor ideal para mim.
 
-**HU05.1** - Como professor, ao ser escolhido por um aluno, espero que o sistema me ofereça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele
+**HU05.1** - Como professor, ao ser escolhido por um aluno, espero que o sistema me ofereça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele.
 
-**HU05.2** - Como aluno, ao escolher um professor, espero que o sistema me forneça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele
+**HU05.2** - Como aluno, ao escolher um professor, espero que o sistema me forneça um meio de comunicação para que eu possa negociar e organizar minhas aulas com ele.
 
-**HU06** - Como usuário (aluno ou professor), espero que o sistema monitore e forneça suporte durante as aulas, para que qualquer problema seja corrigido e a aula ocorra conforme o planejado
+**HU06** - Como aluno ou professor, espero que o sistema monitore e forneça suporte durante as aulas, para que qualquer problema seja corrigido e a aula ocorra conforme o planejado.
 
-**HU07** - Como usuário (aluno ou professor), espero que o sistema ofereça suporte a pagamentos para garantir a segurança das transações
+**HU07** - Como aluno ou professor, espero que o sistema ofereça suporte a pagamentos para garantir a segurança das transações.
 
-**HU08** - Como usuário (aluno ou professor), espero que, após a realização da aula e do pagamento, o sistema forneça um serviço de avaliações, para que eu possa avaliar o outro usuário (aluno ou professor) e assim evitar futuras fraudes e problemas
+**HU08** - Como aluno ou professor, quero que o sistema permita que alunos avaliem professores e professores avaliem alunos após a realização da aula e do pagamento, para melhorar a experiência e evitar fraudes e problemas futuros.
 
 ## Diagrama de Casos de Uso
 
