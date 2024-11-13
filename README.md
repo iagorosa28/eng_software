@@ -73,6 +73,18 @@
 
 Para melhor definição acesse o link: https://drive.google.com/file/d/1-HmNsTpe2Uj7nPGJ2esX0hL_f1fhycfJ/view?usp=sharing
 
+#### Processo de cadastro e login
+
+![Imagem do WhatsApp de 2024-11-13 à(s) 11 57 00_7bda5db6](https://github.com/user-attachments/assets/cc858c14-587f-4c5e-ba61-139bdf3a3cc7)
+
+#### Processo de busca e comunicação
+
+![Imagem do WhatsApp de 2024-11-13 à(s) 11 57 00_61c9f9ea](https://github.com/user-attachments/assets/1757cdc4-6fec-4859-a584-2a6917881624)
+
+#### Processo de monitoramento de aula, pagamento e avaliação
+
+![Imagem do WhatsApp de 2024-11-13 à(s) 11 57 02_1ddcf3d3](https://github.com/user-attachments/assets/2dd92686-6fbb-46a8-8bf3-88f8bfc205da)
+
 ### :pencil2: Detalhe as tarefas dos processos de negócio - Em Formato De Texto
 
 #### Processo de Cadastro/Login de Alunos e Professores:
