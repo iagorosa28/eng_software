@@ -44,7 +44,7 @@
 
 #### [Fase 4 - Projeto de Arquitetura](projeto-de-arquitetura)
 
-🔹[Diagrama de Domínio](#bust_in_silhouette-quem-são-os-stakeholders?)
+🔹[Arquitetura MVC (Model View Controller)](#computer-arquitetura-mvc-(model-view-controller))
 
 #### [Dados Desenvolvedores](#desenvolvedores) 
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
@@ -376,7 +376,7 @@ classDiagram
 
 ### [Volte Para O Menu](#tópicos)
 
-## Arquitetura MVC (Model View Controller)
+## :computer: Arquitetura MVC (Model View Controller)
 
 [![image](https://github.com/user-attachments/assets/ee39e052-954c-49d8-a3ee-12d3eb71e268)](https://miro.com/welcomeonboard/RDdOWVNjbzRhcU9vcjN0azVVOWI4b29QRzZienFUNFNvUmM2SUhIMnNRQk9SWUs2TzRZMGZ4alh1WTJrazF1T3wzMDc0NDU3MzY0OTIyNzIyOTU5fDI=?share_link_id=793777705987)
 
