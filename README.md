@@ -38,6 +38,10 @@
 
 #### [Fase 3 - Modelagem de Software]()
 
+🔹[Diagrama de Casos de Uso](#chart_with_upwards_trend-modelo-de-software-escolhido)
+
+🔹[Diagrama de Domínio](#bust_in_silhouette-quem-são-os-stakeholders?)
+
 #### [Fase 4 - Projeto de Arquitetura]()
 
 #### [Dados Desenvolvedores](#desenvolvedores) 
@@ -367,9 +371,14 @@ classDiagram
   AVALIAÇÃO : - nota int
   AVALIAÇÃO : - texto avaliativo string
 ```
+
+### [Volte Para O Menu](#tópicos)
+
 ## Arquitetura MVC (Model View Controller)
 
 [![image](https://github.com/user-attachments/assets/ee39e052-954c-49d8-a3ee-12d3eb71e268)](https://miro.com/welcomeonboard/RDdOWVNjbzRhcU9vcjN0azVVOWI4b29QRzZienFUNFNvUmM2SUhIMnNRQk9SWUs2TzRZMGZ4alh1WTJrazF1T3wzMDc0NDU3MzY0OTIyNzIyOTU5fDI=?share_link_id=793777705987)
+
+### [Volte Para O Menu](#tópicos)
 
 ## Desenvolvedores
 ### :busts_in_silhouette: Desenvolvedores
