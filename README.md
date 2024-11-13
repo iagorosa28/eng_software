@@ -43,8 +43,7 @@
   Facilitar o contato entre professores que queiram dar aulas particulares com alunos que necessitam dessas aulas.
   
 ### Lucro
-  Pensamos em uma taxa de ____ em cima da aula do professor. Por exemplo, o professor cobra 200 reais pela aula tirando a sua locomoção que será tratada direto com o aluno, o valor mostrado para contratar o serviço será de ____. 
-  Intermediação entre aluno e professor.
+  Pensamos em uma taxa de intermediação da aula. Onde, o négocio recebe uma pequena porcentagem dependendo do valor da aula. Incialmente, pensamos nesssa forma de gerar recursos, futuramente pretendemos adicionar outras formas de receita atráves do aplicativo.
 
 ## :pencil: Processos de Négocios
 1. Processo de cadastro/login de alunos e professores
