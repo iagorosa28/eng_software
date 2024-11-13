@@ -38,13 +38,13 @@
 
 #### [Fase 3 - Modelagem de Software](modelagem-de-software)
 
-🔹[Diagrama de Casos de Uso](#chart_with_upwards_trend-modelo-de-software-escolhido)
+🔹[Diagrama de Casos de Uso](#speech_balloon-diagrama-de-casos-de-uso)
 
 🔹[Diagrama de Domínio](#mag-diagrama-de-domínio)
 
 #### [Fase 4 - Projeto de Arquitetura](projeto-de-arquitetura)
 
-🔹[Arquitetura MVC (Model View Controller)](#computer-arquitetura-mvc-(model-view-controller))
+🔹[Arquitetura MVC (Model View Controller)](#computer-arquitetura-mvc-model-view-controller)
 
 #### [Dados Desenvolvedores](#desenvolvedores) 
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
@@ -325,9 +325,9 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 ### [Volte Para O Menu](#tópicos)
 
 ## Modelagem de Software
-### Diagrama de Casos de Uso
+### :speech_balloon: Diagrama de Casos de Uso
 
-![DiagramaDeCasosDeUso drawio (1)](https://github.com/user-attachments/assets/0555fca5-c332-40fc-8413-645106113ee2)
+![DiagramaDeCasosDeUso drawio (1)](https://github.com/user-attachments/assets/4c2f1c62-ed5d-4f26-bac2-5b2fc9884747)
 
 ## :mag: Diagrama de Domínio
 ```mermaid
