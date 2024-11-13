@@ -12,7 +12,7 @@
 
 ### Tópicos
 
-#### [Modelo de Négocio](#modelo-de-négocio)
+#### [Fase 1 - Modelo de Négocio](#modelo-de-négocio)
 🔹[Informações](#page_facing_up-informações)
 
 🔹[Processos de Négocios](#pencil-processos-de-négocios)
