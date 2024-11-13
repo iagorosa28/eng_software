@@ -340,7 +340,7 @@ classDiagram
   class AULA
   AULA : - data date
   AULA : - duração int
-  AULA : - horário int
+  AULA : - horário time
   AULA : - modelo string
 
   class PAGAMENTO
