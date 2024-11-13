@@ -367,7 +367,8 @@ classDiagram
 
 [![image](https://github.com/user-attachments/assets/ee39e052-954c-49d8-a3ee-12d3eb71e268)](https://miro.com/welcomeonboard/RDdOWVNjbzRhcU9vcjN0azVVOWI4b29QRzZienFUNFNvUmM2SUhIMnNRQk9SWUs2TzRZMGZ4alh1WTJrazF1T3wzMDc0NDU3MzY0OTIyNzIyOTU5fDI=?share_link_id=793777705987)
 
-## :busts_in_silhouette: Desenvolvedores
+## Desenvolvedores
+### :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
 | :---: | :---: |
 
