@@ -312,7 +312,7 @@ Os stakeholders do nosso projeto, serão professores e alunos.
 
 ### :iphone: Protótipos De Telas
 
-[![image](https://github.com/user-attachments/assets/820e441f-f99b-4dea-b450-66e23ee041da)](https://miro.com/welcomeonboard/TVdBOVdjRFl5a0twMTl3MTJHUlhKYXdOelh1dURmeTF5ZVg3S0NtTkZxOG1OaExITTU5MWlxNzRrdDZzZHdYMnwzMDc0NDU3MzY0OTIyNzIyOTU5fDI=?share_link_id=255407610464)
+[![image](https://github.com/user-attachments/assets/820e441f-f99b-4dea-b450-66e23ee041da)](https://miro.com/app/board/uXjVLWPI1Gw=/?share_link_id=287742962913)
 
 ### :books: Histórias de Usuário
 
